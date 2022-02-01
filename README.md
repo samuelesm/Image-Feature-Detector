@@ -1,5 +1,7 @@
 # Image-Feature-Detector
 
+![https://github.com/samuelesm/Image-Feature-Detector/blob/main/Harris%20Corner%20Detection.png](Harris-Corners)
+
 # Synopsis
 
 The goal of feature detection and matching is to identify a pairing between a point in one image and a corresponding point in another image. 
