@@ -23,6 +23,10 @@ They are used to create points of interest to compare.
 
 ## 3. Feature Matching
 
+<p align="center">
+<img src="https://github.com/samuelesm/Image-Feature-Detector/blob/main/Feature-Matching.png"  width="700">
+</p>
+
 Last is the matching code. Two methods were tried here
 
 1) Sum of squared distances (SSD): The sequared Euclidian distance between two vectors
