@@ -1,6 +1,8 @@
 # Image-Feature-Detector
 
-[https://github.com/samuelesm/Image-Feature-Detector/blob/main/Harris%20Corner%20Detection.png](Harris-Corners)
+<p align="center">
+<img src="https://github.com/samuelesm/Image-Feature-Detector/blob/main/Harris%20Corner%20Detection.png"  width="500" height="400">
+</p>
 
 # Synopsis
 
